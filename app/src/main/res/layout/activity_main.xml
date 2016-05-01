@@ -13,20 +13,29 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="18sp"
         android:text="Mango sorbet" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="18sp"
+        android:paddingTop="8dp"
         android:text="Blueberry pie" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="18sp"
+        android:paddingTop="8dp"
         android:text="Chocolate lava cake" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="Print Menu To Logs"/>
 </LinearLayout>
